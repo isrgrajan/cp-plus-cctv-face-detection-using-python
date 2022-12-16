@@ -1,5 +1,5 @@
 # CP Plus CCTV Face Detection Using Python Code
-In order to use CP Plus CCTV Face Detection edit `start.py` and replace with following variable:
+In order to use CP Plus CCTV Face Detection edit `start.py` and replace the following variables and its values with your current values:
 * `cctv_ip`
 * `cctv_port` (only if required)
 * `user_name`
